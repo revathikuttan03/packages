@@ -1,3 +1,2 @@
    name  maths  english  science        avg
-0   anu     50       40       80  56.666667
-1  amal     20       39       40  33.000000
+0  ammu     70       40       30  46.666667
