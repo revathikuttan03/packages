@@ -8,6 +8,6 @@ fig, ax = plt.subplots()             # Create a figure containing a single Axes.
 ax.plot(year,profit)  # Plot some data on the Axes.
 plt.show()                           # Show the figure.
 
-limit=5
-for i in range (5,0,-1):
-    print(i)
+# limit=5
+# for i in range (5,0,-1):
+#     print(i)

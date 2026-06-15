@@ -49,10 +49,14 @@
 #     print("string not allowed")
 
 
-# x=True
-# while x:
-#     choice=input("Enter your choice:")
-#     match choice:
-#         case'add':
-#             a=in
+x=True
+while x:
+    choice=input("Enter your choice:")
+    match choice:
+        case'add':
+            a=input ("Enter your name: ")
+            b=input("Enter sub Eng mark: ")
+            c=input("Enter sub maths mark: ")
+            d=input("Enter sub science mark: ")
+            
 
